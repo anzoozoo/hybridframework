@@ -16,6 +16,6 @@ public class LoginUITest {
 	@Test(invocationCount = 2)
 	public void CountTest()
 	{
-		System.out.println("countTest");
+		System.out.println("countTestcaseExecutionTest");
 	}
 }
